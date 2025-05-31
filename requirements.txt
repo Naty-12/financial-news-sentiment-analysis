@@ -1,0 +1,26 @@
+# Core Data Analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# NLP and Sentiment Analysis
+nltk
+spacy
+vaderSentiment
+scikit-learn
+
+# Financial Data
+yfinance
+
+# Topic Modeling (optional)
+gensim
+
+# Testing (optional, for CI/CD)
+pytest
+
+# For GitHub Actions (optional)
+pytest-cov
